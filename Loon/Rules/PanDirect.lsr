@@ -1,10 +1,8 @@
 # NAME: PanDirect
 # AUTHOR: eulac-dev
 # REPO: https://github.com/eulac-dev/Proxy
-# UPDATED: 2026-02-18 11:22
-# DOMAIN: 64
-# DOMAIN-SUFFIX: 70
-# TOTAL: 134
+# UPDATED: 2026-02-18  11:49
+# TOTAL: 99
 
 # =====================================================
 # 百度网盘
@@ -29,6 +27,7 @@ DOMAIN,member.aliyundrive.com
 DOMAIN,webapi.aliyundrive.com
 DOMAIN,dl.aliyundrive.com
 DOMAIN-SUFFIX,aliyundrive.com
+DOMAIN-SUFFIX,aliyun.com
 
 # =====================================================
 # 夸克网盘
