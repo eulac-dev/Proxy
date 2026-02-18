@@ -1,8 +1,8 @@
-# NAME: PanDirect
+# NAME: PanVod
 # AUTHOR: eulac-dev
 # REPO: https://github.com/eulac-dev/Proxy
-# UPDATED: 2026-02-18  13:36
-# TOTAL: 34
+# UPDATED: 2026-02-18  13:47
+# TOTAL: 35
 
 #115
 DOMAIN,fhnfile.oss-cn-shenzhen.aliyuncs.com
@@ -34,6 +34,7 @@ DOMAIN-SUFFIX,alibaba.com
 DOMAIN,pan.baidu.com
 DOMAIN,thumbnail0.baidupcs.com
 DOMAIN-SUFFIX,baidu.com
+DOMAIN-SUFFIX,bdstatic.com
 
 #天翼
 DOMAIN-SUFFIX,cloud.189.cn
