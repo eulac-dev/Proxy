@@ -1,0 +1,169 @@
+# NAME: PanDirect
+# AUTHOR: eulac-dev
+# REPO: https://github.com/eulac-dev/Proxy
+# UPDATED: 2026-02-18 11:22
+# DOMAIN: 64
+# DOMAIN-SUFFIX: 70
+# TOTAL: 134
+
+# =====================================================
+# 百度网盘
+# =====================================================
+DOMAIN,pan.baidu.com
+DOMAIN,pcs.baidu.com
+DOMAIN,d.pcs.baidu.com
+DOMAIN,issuecdn.baidupcs.com
+DOMAIN,pan.baiduusercontent.com
+DOMAIN,dlc.pcs.baidu.com
+DOMAIN,d.baidupcs.com
+DOMAIN-SUFFIX,baidupcs.com
+DOMAIN-SUFFIX,baiduusercontent.com
+
+# =====================================================
+# 阿里云盘
+# =====================================================
+DOMAIN,api.aliyundrive.com
+DOMAIN,auth.aliyundrive.com
+DOMAIN,share.aliyundrive.com
+DOMAIN,member.aliyundrive.com
+DOMAIN,webapi.aliyundrive.com
+DOMAIN,dl.aliyundrive.com
+DOMAIN-SUFFIX,aliyundrive.com
+
+# =====================================================
+# 夸克网盘
+# =====================================================
+DOMAIN,pan.quark.cn
+DOMAIN,drive.quark.cn
+DOMAIN,share.quark.cn
+DOMAIN,dl.quark.cn
+DOMAIN-SUFFIX,quark.cn
+
+# =====================================================
+# UC 网盘
+# =====================================================
+DOMAIN,drive.uc.cn
+DOMAIN,pan.uc.cn
+DOMAIN,dl.uc.cn
+DOMAIN-SUFFIX,ucpan.cn
+DOMAIN-SUFFIX,myquark.cn
+DOMAIN-SUFFIX,open-uc.cn
+
+# =====================================================
+# 腾讯微云
+# =====================================================
+DOMAIN,share.weiyun.com
+DOMAIN,api.weiyun.com
+DOMAIN,web.weiyun.com
+DOMAIN,dl.stream.weiyun.com
+DOMAIN,dl.weiyun.com
+DOMAIN-SUFFIX,weiyun.com
+
+# =====================================================
+# 天翼云盘
+# =====================================================
+DOMAIN,cloud.189.cn
+DOMAIN,api.cloud.189.cn
+DOMAIN,dl.cloud.189.cn
+DOMAIN-SUFFIX,cloud.189.cn
+
+# =====================================================
+# 115 网盘
+# =====================================================
+DOMAIN,aps.115.com
+DOMAIN,webapi.115.com
+DOMAIN,msg.115.com
+DOMAIN,fhnfile.oss-cn-shenzhen.aliyuncs.com
+DOMAIN,oss-cn-shenzhen.115.com
+DOMAIN,dl.115.com
+DOMAIN-SUFFIX,115.com
+DOMAIN-SUFFIX,115cdn.com
+DOMAIN-SUFFIX,115cdn.net
+DOMAIN-SUFFIX,115img.com
+DOMAIN-SUFFIX,116cd.cn
+DOMAIN-SUFFIX,116cd.com
+DOMAIN-SUFFIX,116cd.net
+DOMAIN-SUFFIX,anxia.com
+
+# =====================================================
+# 迅雷云盘
+# =====================================================
+DOMAIN,pan.xunlei.com
+DOMAIN,dl.xunlei.com
+DOMAIN,hub5btmain.sandai.net
+DOMAIN,dl.kankan.com
+DOMAIN-SUFFIX,xunlei.com
+DOMAIN-SUFFIX,sandai.net
+
+# =====================================================
+# 城通网盘
+# =====================================================
+DOMAIN,www.ctfile.com
+DOMAIN-SUFFIX,ctfile.com
+
+# =====================================================
+# 蓝奏云
+# =====================================================
+DOMAIN,dl.lanzou.com
+DOMAIN-SUFFIX,lanzou.com
+DOMAIN-SUFFIX,lanzous.com
+DOMAIN-SUFFIX,lanzoui.com
+DOMAIN-SUFFIX,lanzoux.com
+DOMAIN-SUFFIX,lanzoub.com
+DOMAIN-SUFFIX,lanzoue.com
+DOMAIN-SUFFIX,lanzouf.com
+DOMAIN-SUFFIX,lanzoug.com
+DOMAIN-SUFFIX,lanzouh.com
+DOMAIN-SUFFIX,lanzouk.com
+DOMAIN-SUFFIX,lanzoul.com
+DOMAIN-SUFFIX,lanzoum.com
+
+# =====================================================
+# 坚果云
+# =====================================================
+DOMAIN,www.jianguoyun.com
+DOMAIN,dav.jianguoyun.com
+DOMAIN,dl.jianguoyun.com
+DOMAIN-SUFFIX,jianguoyun.com
+
+# =====================================================
+# 中国移动 · 和彩云
+# =====================================================
+DOMAIN,app.caiyun.139.com
+DOMAIN,cloud.139.com
+DOMAIN,dl.cloud.139.com
+DOMAIN-SUFFIX,139.com
+
+# =====================================================
+# 华为云空间
+# =====================================================
+DOMAIN,cloud.huawei.com
+DOMAIN,dl.cloud.huawei.com
+DOMAIN-SUFFIX,hicloud.com
+DOMAIN-SUFFIX,dbankcloud.cn
+
+# =====================================================
+# 联通沃云盘
+# =====================================================
+DOMAIN,pan.wo.cn
+DOMAIN,dl.wo.cn
+DOMAIN-SUFFIX,wo.cn
+
+# =====================================================
+# 123 网盘
+# =====================================================
+DOMAIN,www.123pan.com
+DOMAIN,api.123pan.com
+DOMAIN,web-api.123pan.com
+DOMAIN,download.123pan.com
+DOMAIN,dl.123pan.com
+DOMAIN,share.123pan.com
+DOMAIN-SUFFIX,123pan.com
+DOMAIN-SUFFIX,123pan.cn
+DOMAIN-SUFFIX,123pan.net
+
+# =====================================================
+# 光鸭云盘
+# =====================================================
+DOMAIN,guangyapan.com
+DOMAIN-SUFFIX,guangyapan.com
