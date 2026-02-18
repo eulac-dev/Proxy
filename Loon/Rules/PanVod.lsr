@@ -1,8 +1,8 @@
 # NAME: PanVod
 # AUTHOR: eulac-dev
 # REPO: https://github.com/eulac-dev/Proxy
-# UPDATED: 2026-02-18  13:47
-# TOTAL: 35
+# UPDATED: 2026-02-18  18:59
+# TOTAL: 40
 
 #115
 DOMAIN,fhnfile.oss-cn-shenzhen.aliyuncs.com
@@ -18,8 +18,6 @@ DOMAIN-SUFFIX,sq.cc
 
 #阿里/夸克/UC
 DOMAIN,cf.aliyun.com
-DOMAIN,track.uc.cn
-DOMAIN,drive.uc.cn
 DOMAIN-SUFFIX,alipan.com
 DOMAIN-SUFFIX,alicdn.com
 DOMAIN-SUFFIX,aliyundrive.com
@@ -28,27 +26,34 @@ DOMAIN-SUFFIX,alibaba.com
 DOMAIN-SUFFIX,quark.cn
 DOMAIN-SUFFIX,uc.cn
 DOMAIN-SUFFIX,taobao.com
-DOMAIN-SUFFIX,alibaba.com
+DOMAIN-SUFFIX,aliyuncs.com
 
 #百度
-DOMAIN,pan.baidu.com
+DOMAIN,himg.bdimg.com
+DOMAIN,staticiot.cdn.bcebos.com
 DOMAIN,thumbnail0.baidupcs.com
 DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,bdstatic.com
 
 #天翼
-DOMAIN-SUFFIX,cloud.189.cn
+DOMAIN,cloud.dlife.cn
+DOMAIN,ux.21cn.com
+DOMAIN-SUFFIX,189.cn
 
 #迅雷
-DOMAIN,pan.xunlei.com
-DOMAIN,xfile2.a.88cdn.com
+DOMAIN,static.xbase.cloud
 DOMAIN-SUFFIX,xunlei.com
+DOMAIN-SUFFIX,a.88cdn.com
 
 #123
-DOMAIN-SUFFIX,123295.com
+DOMAIN,www.123912.com
+DOMAIN,www.123295.com
 DOMAIN-SUFFIX,cjjd19.com
+DOMAIN-SUFFIX,123pan.com
+DOMAIN-SUFFIX,cnzz.com
 
 #移动云盘
+DOMAIN,dc.cmicapm.com
 DOMAIN-SUFFIX,10086.cn
 DOMAIN-SUFFIX,139.com
 DOMAIN-SUFFIX,cmecloud.cn
