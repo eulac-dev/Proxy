@@ -2,7 +2,7 @@
 # AUTHOR: eulac-dev
 # REPO: https://github.com/eulac-dev/Proxy
 # UPDATED: 2026-02-18  11:54
-# TOTAL: 101
+# TOTAL: 102
 
 # =====================================================
 # 百度网盘
@@ -25,9 +25,9 @@ DOMAIN,auth.aliyundrive.com
 DOMAIN,share.aliyundrive.com
 DOMAIN,member.aliyundrive.com
 DOMAIN,webapi.aliyundrive.com
+DOMAIN,cf.aliyun.com
 DOMAIN,dl.aliyundrive.com
 DOMAIN-SUFFIX,aliyundrive.com
-DOMAIN-SUFFIX,aliyun.com
 DOMAIN-SUFFIX,alibaba.com
 
 # =====================================================
@@ -45,10 +45,10 @@ DOMAIN-SUFFIX,quark.cn
 DOMAIN,drive.uc.cn
 DOMAIN,pan.uc.cn
 DOMAIN,dl.uc.cn
+DOMAIN,track.uc.cn
 DOMAIN-SUFFIX,ucpan.cn
 DOMAIN-SUFFIX,myquark.cn
 DOMAIN-SUFFIX,open-uc.cn
-DOMAIN-SUFFIX,uc.cn
 
 # =====================================================
 # 腾讯微云
