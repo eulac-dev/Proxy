@@ -1,8 +1,8 @@
 # NAME: PanVod
 # AUTHOR: eulac-dev
 # REPO: https://github.com/eulac-dev/Proxy
-# UPDATED: 2026-02-18  18:59
-# TOTAL: 40
+# UPDATED: 2026-02-19  19:06
+# TOTAL: 41
 
 #115
 DOMAIN,fhnfile.oss-cn-shenzhen.aliyuncs.com
@@ -48,6 +48,7 @@ DOMAIN-SUFFIX,a.88cdn.com
 #123
 DOMAIN,www.123912.com
 DOMAIN,www.123295.com
+DOMAIN,www.123865.com
 DOMAIN-SUFFIX,cjjd19.com
 DOMAIN-SUFFIX,123pan.com
 DOMAIN-SUFFIX,cnzz.com
