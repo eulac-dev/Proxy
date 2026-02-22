@@ -1,7 +1,7 @@
 # NAME: PanVod
 # AUTHOR: eulac-dev
 # REPO: https://github.com/eulac-dev/Proxy
-# UPDATED: 2026-02-22  20:53
+# UPDATED: 2026-02-22  21:13
 # TOTAL: 42
 
 #115
@@ -37,9 +37,9 @@ DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,bdstatic.com
 
 #天翼
-DOMAIN,cloud.dlife.cn
 DOMAIN,ux.21cn.com
 DOMAIN-SUFFIX,189.cn
+DOMAIN-SUFFIX,dlife.cn
 
 #迅雷
 DOMAIN,static.xbase.cloud
@@ -55,7 +55,7 @@ DOMAIN-SUFFIX,123pan.com
 DOMAIN-SUFFIX,cnzz.com
 
 #移动云盘
-DOMAIN,dc.cmicapm.com
+DOMAIN-SUFFIX,cmicapm.com
 DOMAIN-SUFFIX,10086.cn
 DOMAIN-SUFFIX,139.com
 DOMAIN-SUFFIX,cmecloud.cn
