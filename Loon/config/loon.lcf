@@ -1,7 +1,7 @@
 # NAME: loon.lcf
 # AUTHOR: eulac-dev
 # REPO: https://github.com/eulac-dev/Proxy
-# UPDATED: 2026-02-22  22:59
+# UPDATED: 2026-02-22  23:04
 
 [General]
 doh-server = https://dns.alidns.com/dns-query,https://doh.pub/dns-query
@@ -102,5 +102,5 @@ https://github.com/fmz200/wool_scripts/raw/main/Loon/plugin/split/partT/TaiLingI
 [Mitm]
 ca-p12 = 
 ca-passphrase = 
-hostname = -www.czzymovie.com
+hostname =
 skip-server-cert-verify = false
