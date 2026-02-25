@@ -1,0 +1,61 @@
+# NAME: PanVod
+# AUTHOR: eulac-dev
+# REPO: https://github.com/eulac-dev/Proxy
+# UPDATED: 2026-02-25  23:28
+# TOTAL: 42
+
+#115
+HOST,fhnfile.oss-cn-shenzhen.aliyuncs.com,PanVod
+HOST-SUFFIX,115.com,PanVod
+HOST-SUFFIX,115cdn.com,PanVod
+HOST-SUFFIX,115cdn.net,PanVod
+HOST-SUFFIX,115img.com,PanVod
+HOST-SUFFIX,116cd.cn,PanVod
+HOST-SUFFIX,116cd.com,PanVod
+HOST-SUFFIX,116cd.net,PanVod
+HOST-SUFFIX,anxia.com,PanVod
+HOST-SUFFIX,sq.cc,PanVod
+
+#阿里/夸克/UC
+HOST,cf.aliyun.com,PanVod
+HOST,ynuf.aliapp.org,PanVod
+HOST-SUFFIX,alipan.com,PanVod
+HOST-SUFFIX,alicdn.com,PanVod
+HOST-SUFFIX,aliyundrive.com,PanVod
+HOST-SUFFIX,aliyundrive.net,PanVod
+HOST-SUFFIX,alibaba.com,PanVod
+HOST-SUFFIX,quark.cn,PanVod
+HOST-SUFFIX,uc.cn,PanVod
+HOST-SUFFIX,taobao.com,PanVod
+HOST-SUFFIX,aliyuncs.com,PanVod
+
+#百度
+HOST,himg.bdimg.com,PanVod
+HOST,staticiot.cdn.bcebos.com,PanVod
+HOST,thumbnail0.baidupcs.com,PanVod
+HOST-SUFFIX,baidu.com,PanVod
+HOST-SUFFIX,bdstatic.com,PanVod
+
+#天翼
+HOST,ux.21cn.com,PanVod
+HOST-SUFFIX,189.cn,PanVod
+HOST-SUFFIX,dlife.cn,PanVod
+
+#迅雷
+HOST,static.xbase.cloud,PanVod
+HOST-SUFFIX,xunlei.com,PanVod
+HOST-SUFFIX,a.88cdn.com,PanVod
+
+#123
+HOST,www.123912.com,PanVod
+HOST,www.123295.com,PanVod
+HOST,www.123865.com,PanVod
+HOST-SUFFIX,cjjd19.com,PanVod
+HOST-SUFFIX,123pan.com,PanVod
+HOST-SUFFIX,cnzz.com,PanVod
+
+#移动云盘
+HOST-SUFFIX,cmicapm.com,PanVod
+HOST-SUFFIX,10086.cn,PanVod
+HOST-SUFFIX,139.com,PanVod
+HOST-SUFFIX,cmecloud.cn,PanVod
