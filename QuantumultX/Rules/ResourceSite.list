@@ -1,0 +1,42 @@
+# NAME: ResourceSite
+# AUTHOR: eulac-dev
+# REPO: https://github.com/eulac-dev/Proxy
+# UPDATED: 2026-02-25  23:31
+# TOTAL: 19
+
+#玩偶哥哥
+HOST-KEYWORD,wogg,ResourceSite
+
+#木偶
+HOST,666.666291.xyz,ResourceSite
+HOST,www.muou.asia,ResourceSite
+HOST,www.muou.site,ResourceSite
+
+#蜡笔
+HOST,fmao.shop,ResourceSite
+
+#至臻
+HOST,www.miqk.cc,ResourceSite
+HOST,xiaomi666.fun,ResourceSite
+HOST-SUFFIX,mihdr.top,ResourceSite
+
+#多多
+HOST,tv.214521.xyz,ResourceSite
+HOST,duo.hidns.vip,ResourceSite
+HOST-KEYWORD,yydsys,ResourceSite
+
+#二小
+HOST,wexwp.cc,ResourceSite
+HOST-SUFFIX,2xiaopan.fun,ResourceSite
+HOST-SUFFIX,erxiaopan.fun,ResourceSite
+HOST-SUFFIX,xhww.net,ResourceSite
+HOST-KEYWORD,erxiaofn,ResourceSite
+
+#虎斑
+IP-CIDR,103.45.162.207/32,ResourceSite
+
+#小斑
+HOST,xsayang.fun,ResourceSite
+
+#欧歌
+HOST,woog.nxog.eu.org,ResourceSite
