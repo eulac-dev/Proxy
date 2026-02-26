@@ -100,7 +100,5 @@ https://raw.githubusercontent.com/fmz200/wool_scripts/main/Loon/plugin/split/par
 https://github.com/fmz200/wool_scripts/raw/main/Loon/plugin/split/partT/TaiLingIntelligent.lpx, enabled=true
 
 [Mitm]
-ca-p12 = 
-ca-passphrase = 
 hostname =
 skip-server-cert-verify = false
