@@ -1,8 +1,8 @@
 # NAME: ResourceSite
 # AUTHOR: eulac-dev
 # REPO: https://github.com/eulac-dev/Proxy
-# UPDATED: 2026-02-25  13:47
-# TOTAL: 19
+# UPDATED: 2026-02-27  12:39
+# TOTAL: 20
 
 #玩偶哥哥
 DOMAIN-KEYWORD,wogg
@@ -40,3 +40,6 @@ DOMAIN,xsayang.fun
 
 #欧歌
 DOMAIN,woog.nxog.eu.org
+
+#闪电
+DOMAIN,sd.sduc.site
