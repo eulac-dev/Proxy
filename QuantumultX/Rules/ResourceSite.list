@@ -1,8 +1,8 @@
 # NAME: ResourceSite
 # AUTHOR: eulac-dev
 # REPO: https://github.com/eulac-dev/Proxy
-# UPDATED: 2026-02-27  12:50
-# TOTAL: 20
+# UPDATED: 2026-02-28  21:14
+# TOTAL: 23
 
 #玩偶哥哥
 HOST-KEYWORD,wogg,ResourceSite
@@ -33,10 +33,13 @@ HOST-SUFFIX,xhww.net,ResourceSite
 HOST-KEYWORD,erxiaofn,ResourceSite
 
 #虎斑
+HOST,xhban.xyz
+IP-CIDR,154.222.27.33/32,ResourceSite
 IP-CIDR,103.45.162.207/32,ResourceSite
 
 #小斑
 HOST,xsayang.fun,ResourceSite
+IP-CIDR,154.201.83.50/32,ResourceSite
 
 #欧歌
 HOST,woog.nxog.eu.org,ResourceSite
