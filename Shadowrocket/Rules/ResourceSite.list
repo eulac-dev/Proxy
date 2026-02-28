@@ -1,8 +1,8 @@
 # NAME: ResourceSite
 # AUTHOR: eulac-dev
 # REPO: https://github.com/eulac-dev/Proxy
-# UPDATED: 2026-02-27  12:48
-# TOTAL: 20
+# UPDATED: 2026-02-28  21:10
+# TOTAL: 23
 
 #玩偶哥哥
 DOMAIN-KEYWORD,wogg
@@ -33,10 +33,13 @@ DOMAIN-SUFFIX,xhww.net
 DOMAIN-KEYWORD,erxiaofn
 
 #虎斑
+DOMAIN,xhban.xyz
+IP-CIDR,154.222.27.33,no-resolve
 IP-CIDR,103.45.162.207/32,no-resolve
 
 #小斑
 DOMAIN,xsayang.fun
+IP-CIDR,154.201.83.50,no-resolve
 
 #欧歌
 DOMAIN,woog.nxog.eu.org
