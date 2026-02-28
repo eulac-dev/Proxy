@@ -34,12 +34,12 @@ DOMAIN-KEYWORD,erxiaofn
 
 #虎斑
 DOMAIN,xhban.xyz
-IP-CIDR,154.222.27.33,no-resolve
+IP-CIDR,154.222.27.33/32,no-resolve
 IP-CIDR,103.45.162.207/32,no-resolve
 
 #小斑
 DOMAIN,xsayang.fun
-IP-CIDR,154.201.83.50,no-resolve
+IP-CIDR,154.201.83.50/32,no-resolve
 
 #欧歌
 DOMAIN,woog.nxog.eu.org
