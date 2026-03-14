@@ -1,8 +1,8 @@
 # NAME: ResourceSite
 # AUTHOR: eulac-dev
 # REPO: https://github.com/eulac-dev/Proxy
-# UPDATED: 2026-03-07  22:47
-# TOTAL: 22
+# UPDATED: 2026-03-14  11:43
+# TOTAL: 23
 
 #玩偶哥哥
 DOMAIN-KEYWORD,wogg
@@ -28,6 +28,7 @@ DOMAIN-KEYWORD,yydsys
 #二小
 DOMAIN,zhizhen1.top
 DOMAIN-KEYWORD,erxiaopan
+DOMAIN-KEYWORD,erixaopan
 DOMAIN-KEYWORD,2xiaopan
 DOMAIN-KEYWORD,wexwp
 
