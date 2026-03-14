@@ -1,7 +1,7 @@
 # NAME: loon.lcf
 # AUTHOR: eulac-dev
 # REPO: https://github.com/eulac-dev/Proxy
-# UPDATED: 2026-02-22  23:04
+# UPDATED: 2026-03-15  00:32
 
 [General]
 doh-server = https://dns.alidns.com/dns-query,https://doh.pub/dns-query
@@ -56,7 +56,6 @@ DOMAIN,dns.weixin.qq.com.cn,DIRECT
 FINAL,故障转移
 
 [Remote Rule]
-https://rule.kelee.one/Loon/Lan.lsr, policy=DIRECT, tag=Lan.lsr, enabled=true
 https://rule.kelee.one/Loon/Apple.lsr, policy=DIRECT, tag=Apple.lsr, enabled=true
 https://raw.githubusercontent.com/eulac-dev/Proxy/refs/heads/main/Loon/Rules/PanVod.lsr, policy=DIRECT, tag=PanVod.lsr, enabled=true
 https://raw.githubusercontent.com/eulac-dev/Proxy/refs/heads/main/Loon/Rules/ResourceSite.lsr, policy=DIRECT, tag=ResourceSite.lsr, enabled=true
@@ -70,6 +69,7 @@ https://rule.kelee.one/Loon/TikTok.lsr, policy=新加坡-手动, tag=TikTok.lsr,
 https://rule.kelee.one/Loon/Instagram.lsr, policy=故障转移, tag=Instagram.lsr, enabled=true
 https://rule.kelee.one/Loon/Twitter.lsr, policy=故障转移, tag=Twitter.lsr, enabled=true
 https://rule.kelee.one/Loon/Global.lsr, policy=故障转移, tag=Global.lsr, enabled=true
+https://rule.kelee.one/Loon/Lan.lsr, policy=DIRECT, tag=Lan.lsr, enabled=true
 https://kelee.one/Tool/Loon/Lsr/REGION_SPLITTER.lsr, policy=DIRECT, tag=REGION_SPLITTER.lsr, enabled=true
 
 [Host]
@@ -97,7 +97,6 @@ https://github.com/fmz200/wool_scripts/raw/main/Loon/plugin/split/partM/Meituan-
 https://github.com/fmz200/wool_scripts/raw/main/Loon/plugin/split/partT/Taobao.lpx, enabled=true
 https://raw.githubusercontent.com/fmz200/wool_scripts/main/Loon/plugin/split/partZ/ChinaUnicom.lpx, enabled=true
 https://raw.githubusercontent.com/fmz200/wool_scripts/main/Loon/plugin/split/partD/Douban.lpx, enabled=true
-https://github.com/fmz200/wool_scripts/raw/main/Loon/plugin/split/partT/TaiLingIntelligent.lpx, enabled=true
 
 [Mitm]
 hostname =
