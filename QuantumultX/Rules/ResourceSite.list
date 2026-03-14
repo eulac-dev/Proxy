@@ -1,8 +1,8 @@
 # NAME: ResourceSite
 # AUTHOR: eulac-dev
 # REPO: https://github.com/eulac-dev/Proxy
-# UPDATED: 2026-03-07  22:51
-# TOTAL: 22
+# UPDATED: 2026-03-14  11:46
+# TOTAL: 23
 
 #玩偶哥哥
 HOST-KEYWORD,wogg,ResourceSite
@@ -28,6 +28,7 @@ HOST-KEYWORD,yydsys,ResourceSite
 #二小
 HOST,zhizhen1.top,ResourceSite
 HOST-KEYWORD,erxiaopan,ResourceSite
+HOST-KEYWORD,erixaopan,ResourceSite
 HOST-KEYWORD,2xiaopan,ResourceSite
 HOST-KEYWORD,wexwp,ResourceSite
 
