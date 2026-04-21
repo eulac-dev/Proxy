@@ -1,8 +1,8 @@
 # NAME: PanVod
 # AUTHOR: eulac-dev
 # REPO: https://github.com/eulac-dev/Proxy
-# UPDATED: 2026-02-25  23:28
-# TOTAL: 42
+# UPDATED: 2026-04-21  08:44
+# TOTAL: 44
 
 #115
 HOST,fhnfile.oss-cn-shenzhen.aliyuncs.com,PanVod
@@ -59,3 +59,7 @@ HOST-SUFFIX,cmicapm.com,PanVod
 HOST-SUFFIX,10086.cn,PanVod
 HOST-SUFFIX,139.com,PanVod
 HOST-SUFFIX,cmecloud.cn,PanVod
+
+#光鸭
+HOST-SUFFIX,guangyacdn.com,PanVod
+HOST-SUFFIX,guangyapan.com,PanVod
