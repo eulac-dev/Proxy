@@ -59,3 +59,7 @@ DOMAIN-SUFFIX,cmicapm.com
 DOMAIN-SUFFIX,10086.cn
 DOMAIN-SUFFIX,139.com
 DOMAIN-SUFFIX,cmecloud.cn
+
+#光鸭
+DOMAIN-SUFFIX,guangyacdn.com
+DOMAIN-SUFFIX,guangyapan.com
