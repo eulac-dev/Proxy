@@ -1,50 +1,45 @@
 # NAME: ResourceSite
 # AUTHOR: eulac-dev
 # REPO: https://github.com/eulac-dev/Proxy
-# UPDATED: 2026-03-15  00:29
-# TOTAL: 25
+# UPDATED: 2026-07-15  19:18
+# TOTAL: 22
 
 #玩偶哥哥
-HOST-KEYWORD,wogg,ResourceSite
+HOST-KEYWORD,wogg
 
 #木偶
-HOST,666.666291.xyz,ResourceSite
-HOST,www.muou.asia,ResourceSite
-HOST,www.muou.site,ResourceSite
+HOST-SUFFIX,666291.xyz
+HOST,www.muou.asia
+HOST,www.muou.site
 
 #蜡笔
-HOST,fmao.shop,ResourceSite
+HOST,fmao.fun
+HOST-SUFFIX,xiaocgege.shop
 
 #至臻
-HOST,www.miqk.cc,ResourceSite
-HOST,xiaomi666.fun,ResourceSite
-HOST-SUFFIX,mihdr.top,ResourceSite
+HOST,www.miqk.cc
+HOST-SUFFIX,mihdr.top
 
 #多多
-HOST,tv.214521.xyz,ResourceSite
-HOST,duo.hidns.vip,ResourceSite
-HOST-KEYWORD,yydsys,ResourceSite
+HOST,tv.214521.xyz
+HOST-KEYWORD,yydsys
 
 #二小
-HOST,zhizhen1.top,ResourceSite
-HOST-KEYWORD,erxiaopan,ResourceSite
-HOST-KEYWORD,erixaopan,ResourceSite
-HOST-KEYWORD,erxiaozhan,ResourceSite
-HOST-KEYWORD,2xiaozhan,ResourceSite
-HOST-KEYWORD,2xiaopan,ResourceSite
-HOST-KEYWORD,wexwp,ResourceSite
+HOST-KEYWORD,erxiaopan
+HOST-KEYWORD,erixaopan
+HOST-KEYWORD,erxiaozhan
+HOST-KEYWORD,2xiaozhan
+HOST-KEYWORD,2xiaopan
+HOST-KEYWORD,wexwp
 
-#虎斑
-HOST,xhban.xyz,ResourceSite
-IP-CIDR,154.222.27.33/32,ResourceSite
-IP-CIDR,103.45.162.207/32,ResourceSite
-
-#小斑
-HOST,xsayang.fun,ResourceSite
-IP-CIDR,154.201.83.50/32,ResourceSite
+#虎斑#小斑
+IP-CIDR,121.205.88.174/32
 
 #欧歌
-HOST,woog.nxog.eu.org,ResourceSite
+HOST,woog.nxog.eu.org
+HOST,woog.nxog.fun
+HOST,woog.430520.xyz
 
 #闪电
-HOST,sd.sduc.site,ResourceSite
+HOST,sd.sduc.site
+HOST,shandian.blog
