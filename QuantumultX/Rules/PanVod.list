@@ -1,8 +1,8 @@
 # NAME: PanVod
 # AUTHOR: eulac-dev
 # REPO: https://github.com/eulac-dev/Proxy
-# UPDATED: 2026-08-14  21:19
-# TOTAL: 44
+# UPDATED: 2026-08-14  22:27
+# TOTAL: 47
 
 #115
 HOST,fhnfile.oss-cn-shenzhen.aliyuncs.com,PanVod
@@ -17,8 +17,8 @@ HOST-SUFFIX,anxia.com,PanVod
 HOST-SUFFIX,sq.cc,PanVod
 
 #阿里/夸克/UC
-HOST,cf.aliyun.com,PanVod
 HOST,ynuf.aliapp.org,PanVod
+HOST-SUFFIX,aliyun.com,PanVod
 HOST-SUFFIX,alipan.com,PanVod
 HOST-SUFFIX,alicdn.com,PanVod
 HOST-SUFFIX,aliyundrive.com,PanVod
@@ -31,10 +31,10 @@ HOST-SUFFIX,aliyuncs.com,PanVod
 
 #百度
 HOST,himg.bdimg.com,PanVod
-HOST,staticiot.cdn.bcebos.com,PanVod
-HOST,thumbnail0.baidupcs.com,PanVod
 HOST-SUFFIX,baidu.com,PanVod
+HOST-SUFFIX,bcebos.com,PanVod
 HOST-SUFFIX,bdstatic.com,PanVod
+HOST-SUFFIX,baidupcs.com,PanVod
 
 #天翼
 HOST,ux.21cn.com,PanVod
@@ -47,19 +47,22 @@ HOST-SUFFIX,xunlei.com,PanVod
 HOST-SUFFIX,a.88cdn.com,PanVod
 
 #123
+HOST,www.123684.com,PanVod
 HOST,www.123912.com,PanVod
-HOST,www.123295.com,PanVod
 HOST,www.123865.com,PanVod
+HOST,matomo4397.123245.com,PanVod
+HOST,umini.shujupie.com,PanVod
+HOST-SUFFIX,123295.com,PanVod
 HOST-SUFFIX,cjjd19.com,PanVod
-HOST-KEYWORD,123pan,PanVod
 HOST-SUFFIX,cnzz.com,PanVod
+HOST-KEYWORD,123pan,PanVod
 
 #移动云盘
-HOST-SUFFIX,cmicapm.com,PanVod
-HOST-SUFFIX,10086.cn,PanVod
 HOST-SUFFIX,139.com,PanVod
+HOST-SUFFIX,10086.cn,PanVod
 HOST-SUFFIX,cmecloud.cn,PanVod
+HOST-SUFFIX,cmicapm.com,PanVod
 
 #光鸭
-HOST-SUFFIX,guangyacdn.com,PanVod
 HOST-SUFFIX,guangyapan.com,PanVod
+HOST-SUFFIX,guangyacdn.com,PanVod
