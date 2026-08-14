@@ -1,7 +1,7 @@
 # NAME: PanVod
 # AUTHOR: eulac-dev
 # REPO: https://github.com/eulac-dev/Proxy
-# UPDATED: 2026-04-21  08:34
+# UPDATED: 2026-08-14  21:17
 # TOTAL: 44
 
 #115
@@ -51,7 +51,7 @@ DOMAIN,www.123912.com
 DOMAIN,www.123295.com
 DOMAIN,www.123865.com
 DOMAIN-SUFFIX,cjjd19.com
-DOMAIN-SUFFIX,123pan.com
+DOMAIN-KEYWORD,123pan
 DOMAIN-SUFFIX,cnzz.com
 
 #移动云盘
