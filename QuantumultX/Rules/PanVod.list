@@ -1,7 +1,7 @@
 # NAME: PanVod
 # AUTHOR: eulac-dev
 # REPO: https://github.com/eulac-dev/Proxy
-# UPDATED: 2026-04-21  08:44
+# UPDATED: 2026-08-14  21:19
 # TOTAL: 44
 
 #115
@@ -51,7 +51,7 @@ HOST,www.123912.com,PanVod
 HOST,www.123295.com,PanVod
 HOST,www.123865.com,PanVod
 HOST-SUFFIX,cjjd19.com,PanVod
-HOST-SUFFIX,123pan.com,PanVod
+HOST-KEYWORD,123pan,PanVod
 HOST-SUFFIX,cnzz.com,PanVod
 
 #移动云盘
