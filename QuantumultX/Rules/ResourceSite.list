@@ -1,46 +1,37 @@
 # NAME: ResourceSite
 # AUTHOR: eulac-dev
 # REPO: https://github.com/eulac-dev/Proxy
-# UPDATED: 2026-10-23  23:18
-# TOTAL: 25
+# UPDATED: 2026-11-7  21:18
+# TOTAL: 21
 
 #玩偶哥哥
+HOST,woggpan.888484.xyz
 HOST-KEYWORD,wogg
 
 #木偶
 HOST,www.muoua.top
-HOST-SUFFIX,666291.xyz
 HOST-SUFFIX,333291.xyz
+HOST-SUFFIX,666291.xyz
 
 #蜡笔
 HOST,fmao.fun
+HOST,tvpanpan.site
 HOST,www.mmpanpan.site
 HOST-SUFFIX,xiaocgege.shop
-
-#至臻
-HOST,www.miqk.cc
-HOST-SUFFIX,mihdr.top
 
 #多多
 HOST,tv.214521.xyz
 HOST-KEYWORD,yydsys
 
-#二小
-HOST-KEYWORD,erxiaopan
-HOST-KEYWORD,erixaopan
-HOST-KEYWORD,erxiaozhan
-HOST-KEYWORD,2xiaozhan
-HOST-KEYWORD,2xiaopan
-HOST-KEYWORD,wexwp
-
 #虎斑#小斑
+HOST-KEYWORD,xhban
 IP-CIDR,103.40.14.172/32
 IP-CIDR,38.76.197.172/32
 
 #欧歌
-HOST,woog.nxog.eu.org
 HOST,woog.nxog.fun
 HOST,woog.430520.xyz
+HOST-SUFFIX,woog.nxog.eu.org
 
 #闪电
 HOST,sd.sduc.site
@@ -48,3 +39,4 @@ HOST,shandian.blog
 
 #花卷
 HOST,www.hjzhencai.top
+HOST,www.huanjuanwp.shop
